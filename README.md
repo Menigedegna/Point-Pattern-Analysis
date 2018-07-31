@@ -4,7 +4,7 @@ The jupyter scripts in these repository are necessary to process and run data an
 
 ## Setting up the  environment
 
-Install jupyter and set up python and R kernel. 
+Install jupyter and set up R kernel for RNA PolII Data processing python kernel for Machine_Learning_And_Pattern_Analysis_of_RNADistribution. 
 ### Prerequisites
 
 R 3.4 and higher versions and the following packages:
