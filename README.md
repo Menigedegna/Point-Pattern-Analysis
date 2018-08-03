@@ -1,6 +1,8 @@
 # Point pattern analysis
 
 The jupyter scripts in these repository are necessary to process and run data analysis on files produced by Imaris plugins that can be downloaded from the Image processing repository. Although the pattern anlysis was designed for RNA PolII foci distrubution, in theory same script could be adapted to any foci distribution in nuclei, as long as plugins in image processing repository were used to process the 3D nuclei images.
+![Alt text](DistanceScheme.png?raw=true "Title")
+
 
 ## Setting up the  environment
 
