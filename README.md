@@ -1,10 +1,10 @@
 # Point pattern analysis
 
-The jupyter scripts in these repository are necessary to process and run data analysis on files produced by Imaris plugins that can be downloaded from the Image processing repository.
+The jupyter scripts in these repository are necessary to process and run data analysis on files produced by Imaris plugins that can be downloaded from the Image processing repository. Although the pattern anlysis was designed for RNA PolII foci distrubution, in theory same script could be adapted to any foci distribution in nuclei, as long as plugins in image processing repository were used to process the 3D nuclei images.
 
 ## Setting up the  environment
 
-Install jupyter and set up R kernel for RNA PolII Data processing python kernel for Machine_Learning_And_Pattern_Analysis_of_RNADistribution. 
+Install <b>jupyter</b> and set up <b>R kernel</b> for RNA PolII Data processing and <b>python kernel</b> for Machine_Learning_And_Pattern_Analysis_of_RNA_PolII_Distribution. 
 ### Prerequisites
 
 R 3.4 and higher versions and the following packages:
